@@ -1,0 +1,176 @@
+
+Whats a web page with Kudela
+Directions 
+
+3.  Download and unzip the 
+2.1.1 sourceFiles.zip
+. This zip file contains a file
+
+sample.html
+ shown below. Note the location where you have saved it.
+
+4. Open the Firefox web browser. You will use the browser to view the
+
+sample.html
+ file as a rendered web page and as source text.
+
+
+a. 
+To view the file as a rendered web page, select 
+File
+ > 
+Open
+ 
+file
+ in the
+browser and navigate to the file 
+sample.html
+ that you just unzipped.
+
+
+b. 
+To view the file’s source code, select 
+Tools
+ > 
+Web developer
+ > 
+View
+source
+.   
+
+Describe the relationship and difference between the rendered page and the
+source.
+
+
+5. 
+In this step, you will change the file and view the new version through the
+
+browser.
+a. 
+Open a text editor (Notepad++ or TextWrangler). In the text editor, select
+File
+ > 
+Open file
+ and navigate to the file 
+sample.html
+ that you just
+
+unzipped.
+
+b. 
+Change the “Supercool” and “Surprise” to anything you and your partner
+want. Save your new version of the file.
+
+
+
+c. 
+In the browser, use the refresh button shown below to render the new
+version of the file.
+
+
+
+
+
+6. 
+Add an image element to the HTML by adding a single tag as shown below. Save
+the change to the HTML file and reload the page in your browser.
+
+The 
+src
+ attribute provides the image file’s name. The value of the 
+src
+ attribute
+can be a full URL. The value of 
+src
+ can be just the file name part of the URL if
+the file is on the same 
+filesystem
+ as the HTML file.
+
+The example here will render the 
+sulfur.JPG
+ image, which was provided in the
+source files for the activity. The image file must be in the same folder as the
+HTML to be rendered. Render a web page with the sulfur butterfly image or with
+an image of your own.
+
+
+ 
+<img src
+="sulfur.JPG">
+
+
+
+7. 
+Another language used to create web pages is 
+CSS
+ (cascading style sheets.)
+Styles affect the layout and appearance of a web page. CSS is usually written in a
+separate file that can be applied to many pages on a web site to give the pages a
+similar appearance. CSS can also be embedded in the document or applied
+
+
+Page 3
+
+within a single HTML element. In the file 
+sample.html
+, embedded within an
+HTML 
+<style>
+ element, is the following CSS:
+
+
+ 
+h1 {
+
+    
+color: #
+ff
+00
+ff
+;
+
+    
+background
+-
+color: #ffffff;
+
+}
+
+
+
+a. 
+This CSS specifies the text color and the background color for the 
+h1
+
+element’s text. What is the color 
+#ff00ff
+ of the text? Explain why this is
+
+the color encoded by this hexadecimal string.
+
+b. 
+The last two digits 
+ff
+ 
+in the color string represent the blue intensity.
+Inside the computer, how is this hexadecimal 
+ff
+ represented in binary?
+Write the number for the blue intensity in zeros and ones.
+
+c. 
+Change the CSS for the style of 
+h1
+ elements so that they appear as yellow
+text on a gray background. Note that gray is halfway between white and
+black, with red, green, and blue components each halfway on.
+
+8. 
+Experiment with HTML elements and CSS properties to add to your page.
+Browse online documentation and resources about HTML and CSS. Identify one
+HTML element that is new to you and add it to your HTML. Find one new CSS
+property for any element and set it in the HTML’s 
+<style>
+ element. Turn in
+your result as directed by your teacher.
