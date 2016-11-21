@@ -5,6 +5,6 @@
     </head>
     <body>
         <h1> Surprise! Making a web page is easy!</h1>
-        You can put your content here.
+       <p> You can put your content here.</p>
     </body>
 </html>
