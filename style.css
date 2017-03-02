@@ -1,0 +1,37 @@
+h1 {
+text-align: center;
+}
+
+/* unvisited link */
+a:link {
+    color: #2d30b7;
+text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #9310cc; // 1f57e2; // 080a59;
+text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #0059ff; // 35b2ce;
+text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #6f0cad; // c047ef;
+text-decoration: underline;
+}
+
+body {
+	background-color: #2dd9e5; // 6799ea; // 2c4f89; // 2d5391; // 18e01f; // 10e817; // 0ef916; // 2dfce0; // 60e055; //2ec120; //f5deb3;
+}
+
+ul {
+    -webkit-column-count: 4; /* Chrome, Safari, Opera */
+    -moz-column-count: 4; /* Firefox */
+    column-count: 4;
+}
