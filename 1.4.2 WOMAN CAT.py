@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-''' What is Kudelas Middle Name- guess here on line 3-
+''' What is Kudelas Middle Name- guess here on line 3-Steven
 JDoe_JSmith_1_4_2: Read and show an image.
 '''
 import matplotlib.pyplot as plt 
