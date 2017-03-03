@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 
-''' What is Kudelas Middle Name- guess here on line 3-Steven
+''' What is Kudelas Middle Name- guess here on line 3-Steven  
+I know that it starts with an m and that he has relatives called mars and michele.  
+Riely has alredy guessed mars, which was anounced wrong.  
+More searching lead me to find an ancestor named mike kudela.  My guess is michael.
 JDoe_JSmith_1_4_2: Read and show an image.
 '''
 import matplotlib.pyplot as plt 
